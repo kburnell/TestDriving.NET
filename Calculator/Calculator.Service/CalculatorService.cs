@@ -1,0 +1,35 @@
+﻿using System;
+using Calculator.Service.Interfaces;
+
+namespace Calculator.Service {
+
+    public class CalculatorService : ICalculatorService {
+
+        #region << Private Fields >>
+
+
+
+        #endregion
+
+        #region << Constructors >>
+
+
+
+        #endregion
+
+        #region << Public Properties >>
+
+
+
+        #endregion
+
+        #region << Public Methods >>
+
+        public decimal Add(decimal value1, decimal value2) {
+            throw new NotImplementedException("Add has not been implemented yet!");
+        }
+
+        #endregion
+
+    }
+}

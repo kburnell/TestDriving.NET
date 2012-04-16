@@ -1,0 +1,8 @@
+D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Console\bin\Debug\Calculator.Console.exe.config
+D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Console\bin\Debug\Calculator.Console.exe
+D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Console\bin\Debug\Calculator.Console.pdb
+D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Console\obj\Debug\Calculator.Console.csprojResolveAssemblyReference.cache
+D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Console\obj\Debug\Calculator.Console.exe
+D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Console\obj\Debug\Calculator.Console.pdb
+D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Console\bin\Debug\Calculator.Service.dll
+D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Console\bin\Debug\Calculator.Service.pdb
