@@ -5,3 +5,11 @@ D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Service.Tests.Unit\
 D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Service.Tests.Unit\bin\Debug\Calculator.Service.dll
 D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Service.Tests.Unit\bin\Debug\Calculator.Service.pdb
 D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Service.Tests.Unit\obj\Debug\Calculator.Service.Tests.Unit.csprojResolveAssemblyReference.cache
+D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Service.Tests.Unit\bin\Debug\Should.dll
+D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Service.Tests.Unit\bin\Debug\Rhino.Mocks.dll
+D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Service.Tests.Unit\bin\Debug\Rhino.Mocks.xml
+D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Service.Tests.Unit\bin\Debug\StructureMap.dll
+D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Service.Tests.Unit\bin\Debug\Calculator.Shared.dll
+D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Service.Tests.Unit\bin\Debug\StructureMap.pdb
+D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Service.Tests.Unit\bin\Debug\StructureMap.xml
+D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Service.Tests.Unit\bin\Debug\Calculator.Shared.pdb
