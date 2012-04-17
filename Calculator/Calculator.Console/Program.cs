@@ -8,7 +8,6 @@ namespace Calculator.Console {
         private static CalculatorService _calculatorService;
 
         static void Main(string[] args) {
-            BootStrapper.Bootstrap();
             _calculatorService = new CalculatorService();
             System.Console.Write("Value 1: ");
             _value1 = decimal.Parse(System.Console.ReadLine());

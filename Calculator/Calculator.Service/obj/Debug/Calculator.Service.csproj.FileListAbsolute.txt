@@ -3,8 +3,3 @@ D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Service\bin\Debug\C
 D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Service\obj\Debug\Calculator.Service.csprojResolveAssemblyReference.cache
 D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Service\obj\Debug\Calculator.Service.dll
 D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Service\obj\Debug\Calculator.Service.pdb
-D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Service\bin\Debug\Calculator.Shared.dll
-D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Service\bin\Debug\StructureMap.dll
-D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Service\bin\Debug\Calculator.Shared.pdb
-D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Service\bin\Debug\StructureMap.pdb
-D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Service\bin\Debug\StructureMap.xml

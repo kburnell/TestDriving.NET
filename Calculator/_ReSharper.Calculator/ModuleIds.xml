@@ -1,5 +1,0 @@
-<Modules>
-  <Module PersistentId="24AD0AE4-41C8-4718-8F1E-E1C9159493D9" ModuleId="Calculator.Console" />
-  <Module PersistentId="3EE435D5-3CE0-47DE-BEFB-30B95E9B3845" ModuleId="Calculator.Service" />
-  <Module PersistentId="114E2651-2A30-439B-9234-B3B846F125D7" ModuleId="Calculator.Service.Tests.Unit" />
-</Modules>
