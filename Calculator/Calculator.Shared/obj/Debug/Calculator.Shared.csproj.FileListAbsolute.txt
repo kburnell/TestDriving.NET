@@ -1,8 +1,0 @@
-D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Shared\bin\Debug\Calculator.Shared.dll
-D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Shared\bin\Debug\Calculator.Shared.pdb
-D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Shared\obj\Debug\Calculator.Shared.csprojResolveAssemblyReference.cache
-D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Shared\obj\Debug\Calculator.Shared.dll
-D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Shared\obj\Debug\Calculator.Shared.pdb
-D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Shared\bin\Debug\StructureMap.dll
-D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Shared\bin\Debug\StructureMap.pdb
-D:\Dev\Presentations\TestDrivingDotNet\Calculator\Calculator.Shared\bin\Debug\StructureMap.xml
