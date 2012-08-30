@@ -12,3 +12,10 @@ D:\Dev\Presentations\TDD\TestDriving.NET\Calculator\Calculator.Service.Tests.Uni
 D:\Dev\Presentations\TDD\TestDriving.NET\Calculator\Calculator.Service.Tests.Unit\obj\Debug\Calculator.Service.Tests.Unit.csprojResolveAssemblyReference.cache
 D:\Dev\Presentations\TDD\TestDriving.NET\Calculator\Calculator.Service.Tests.Unit\obj\Debug\Calculator.Service.Tests.Unit.dll
 D:\Dev\Presentations\TDD\TestDriving.NET\Calculator\Calculator.Service.Tests.Unit\obj\Debug\Calculator.Service.Tests.Unit.pdb
+D:\Dev\Presentations\TDD\TestDriving.NET\Calculator_Begin\Calculator.Service.Tests.Unit\bin\Debug\Calculator.Service.Tests.Unit.dll
+D:\Dev\Presentations\TDD\TestDriving.NET\Calculator_Begin\Calculator.Service.Tests.Unit\bin\Debug\Calculator.Service.Tests.Unit.pdb
+D:\Dev\Presentations\TDD\TestDriving.NET\Calculator_Begin\Calculator.Service.Tests.Unit\bin\Debug\Calculator.Service.dll
+D:\Dev\Presentations\TDD\TestDriving.NET\Calculator_Begin\Calculator.Service.Tests.Unit\bin\Debug\Calculator.Service.pdb
+D:\Dev\Presentations\TDD\TestDriving.NET\Calculator_Begin\Calculator.Service.Tests.Unit\obj\Debug\Calculator.Service.Tests.Unit.csprojResolveAssemblyReference.cache
+D:\Dev\Presentations\TDD\TestDriving.NET\Calculator_Begin\Calculator.Service.Tests.Unit\obj\Debug\Calculator.Service.Tests.Unit.dll
+D:\Dev\Presentations\TDD\TestDriving.NET\Calculator_Begin\Calculator.Service.Tests.Unit\obj\Debug\Calculator.Service.Tests.Unit.pdb
