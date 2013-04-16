@@ -22,3 +22,6 @@ D:\Dev\Presentations\TDD\TestDriving.NET\Calculator_Begin\Calculator.Console\bin
 D:\Dev\Presentations\TDD\TestDriving.NET\Calculator_Begin\Calculator.Console\bin\Debug\Calculator.Service.dll
 D:\Dev\Presentations\TDD\TestDriving.NET\Calculator_Begin\Calculator.Console\bin\Debug\Calculator.Service.pdb
 D:\Dev\Presentations\TDD\TestDriving.NET\Calculator_Begin\Calculator.Console\obj\Debug\Calculator.Console.csprojResolveAssemblyReference.cache
+C:\Dev\Presentations\TDD\TestDriving.NET\Calculator_Begin\Calculator.Console\bin\Debug\Calculator.Console.exe.config
+C:\Dev\Presentations\TDD\TestDriving.NET\Calculator_Begin\Calculator.Console\obj\Debug\Calculator.Console.exe
+C:\Dev\Presentations\TDD\TestDriving.NET\Calculator_Begin\Calculator.Console\obj\Debug\Calculator.Console.pdb

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+      <Title>TDD_1</Title>
+      <Author>Skyline</Author>
+      <Description>
+      </Description>
+      <HelpUrl>
+      </HelpUrl>
+      <Shortcut>
+        tdd1
+      </Shortcut>
+    </Header>
+    <Snippet>
+      <Code Language="csharp"><![CDATA[ [TestMethod]
+        public void Add_ShouldReturn_Decimal() {
+            //Arrange
+            decimal val1 = 1.23m;
+            decimal val2 = 3.21m;
+            ICalculatorService service = new CalculatorService();
+            //Act
+            var result = service.Add(val1, val2);
+            //Assert
+            Assert.IsInstanceOfType(result, typeof (decimal));
+        }
+]]></Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>
