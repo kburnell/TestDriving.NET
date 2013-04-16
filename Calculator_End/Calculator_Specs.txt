@@ -5,7 +5,8 @@
 		- Output
 			- decimal
 		- Logic
-			Return product of first input parameter and second input parameter
+			Return sub of first input parameter and second input parameter
+
 
 2.  Inputs to Add must be validated via some validation service that will meet the following contract
 		-- bool ValidateForAdd(decimal value1, decimal value2)

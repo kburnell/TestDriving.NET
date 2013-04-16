@@ -54,6 +54,12 @@
   <ItemGroup>
     <Folder Include="Fakes\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Calculator.Service\Calculator.Service.csproj">
+      <Project>{BD9C8455-ACE7-4587-AB89-91A69C68059F}</Project>
+      <Name>Calculator.Service</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

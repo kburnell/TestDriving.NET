@@ -16,16 +16,16 @@
       </Shortcut>
     </Header>
     <Snippet>
-      <Code Language="csharp"><![CDATA[ [TestMethod]
-        public void Add_ShouldReturn_Decimal() {
+      <Code Language="csharp"><![CDATA[ [Test]
+        public void Add_ShouldReturn_12_When_Passed_8_And_4() {
             //Arrange
-            decimal val1 = 1.23m;
-            decimal val2 = 3.21m;
-            ICalculatorService service = new CalculatorService();
+            decimal input1 = 8;
+            decimal input2 = 4;
+            CalculatorService classUnderTest = new CalculatorService();
             //Act
-            var result = service.Add(val1, val2);
+            var result = classUnderTest.Add(input1, input2);
             //Assert
-            Assert.IsInstanceOfType(result, typeof (decimal));
+            Assert.AreEqual(result, 12);
         }
 ]]></Code>
     </Snippet>
