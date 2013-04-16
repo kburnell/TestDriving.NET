@@ -1,8 +1,9 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿
+using NUnit.Framework;
 
 namespace Calculator.Service.Tests.Unit {
 
-    [TestClass]
+    [TestFixture]
     public class CalculatorServiceTest {
         
     }

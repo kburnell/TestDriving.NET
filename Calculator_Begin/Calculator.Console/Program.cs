@@ -1,12 +1,15 @@
-﻿using Calculator.Service;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Calculator.Console {
-    class Program {
-
-        private static decimal _value1;
-        private static decimal _value2;
-        private static CalculatorService _calculatorService;
-
-        static void Main(string[] args) {}
+namespace Calculator.Console
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+        }
     }
 }
