@@ -19,25 +19,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.Shared", "Calculator.Shared\Calculator.Shared.csproj", "{9F8D4B8E-D120-4C68-8DDB-93E16BAB03E6}"
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 5
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://keburnell.tfspreview.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = Calculator.Console\\Calculator.Console.csproj
-		SccProjectName1 = Calculator.Console
-		SccLocalPath1 = Calculator.Console
-		SccProjectUniqueName2 = Calculator.Service\\Calculator.Service.csproj
-		SccProjectName2 = Calculator.Service
-		SccLocalPath2 = Calculator.Service
-		SccProjectUniqueName3 = Calculator.Service.Tests.Unit\\Calculator.Service.Tests.Unit.csproj
-		SccProjectTopLevelParentUniqueName3 = Calculator.sln
-		SccProjectName3 = Calculator.Service.Tests.Unit
-		SccLocalPath3 = Calculator.Service.Tests.Unit
-		SccProjectUniqueName4 = Calculator.Shared\\Calculator.Shared.csproj
-		SccProjectName4 = Calculator.Shared
-		SccLocalPath4 = Calculator.Shared
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
