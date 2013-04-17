@@ -5,28 +5,21 @@
       <SnippetTypes>
         <SnippetType>Expansion</SnippetType>
       </SnippetTypes>
-      <Title>TDD_1</Title>
+      <Title>TDD_2</Title>
       <Author>Skyline</Author>
       <Description>
       </Description>
       <HelpUrl>
       </HelpUrl>
       <Shortcut>
-        tdd1
+        tdd2
       </Shortcut>
     </Header>
     <Snippet>
-      <Code Language="csharp"><![CDATA[ [Test]
-        public void Add_ShouldReturn_12_When_Passed_8_And_4() {
-            //Arrange
-            const decimal input1 = 8;
-            const decimal input2 = 4;
-            CalculatorService classUnderTest = new CalculatorService();
-            //Act
-            var result = classUnderTest.Add(input1, input2);
-            //Assert
-            Assert.AreEqual(result, 12);
-        }
+      <Code Language="csharp"><![CDATA[ ObjectFactory.Initialize(x => {
+                x.For<ICalculatorService>().Use<CalculatorService>();
+                x.For<IValidationService>().Use(validationServiceMock);
+            });
 ]]></Code>
     </Snippet>
   </CodeSnippet>

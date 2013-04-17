@@ -1,15 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Calculator.Console.Utility;
 
-namespace Calculator.Console
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+namespace Calculator.Console {
+
+    class Program {
+
+        static void Main(string[] args) {
+            IoCBootstrapper.Bootstrap();
         }
     }
 }
